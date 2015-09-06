@@ -75,7 +75,7 @@ module.exports = function(config) {
             var urlArr = trimUrl.split("?");
 
             var index = _.findIndex(config, function(c){
-                return c.path == urlArr[0];
+                return "statics/img/" + c.path == urlArr[0];
             });
 
             if ( index >= 0 && config[index]["url"] ){

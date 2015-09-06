@@ -1,6 +1,6 @@
 {
   "name": "gulp-higo-cdn-replace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "higo cdn replace",
   "main": "index.js",
   "scripts": {
