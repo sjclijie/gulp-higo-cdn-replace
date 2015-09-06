@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JiangJie/gulp-cdn-replace.git"
+    "url": "git@github.com:sjclijie/gulp-higo-cdn-replace.git"
   },
   "keywords": [
     "gulp",
@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JiangJie/gulp-cdn-replace/issues"
+    "url": "https://github.com/sjclijie/gulp-higo-cdn-replace/issues"
   },
   "dependencies": {
     "gulp-util": "^3.0.1",
